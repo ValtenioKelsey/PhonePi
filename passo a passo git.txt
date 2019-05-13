@@ -1,0 +1,6 @@
+Para registrar alteraçoes
+	git add .
+Para registrar pacote de alterações
+	git commit -m "mensagem do pacote"
+para salvar no servidor
+	git push origin master
