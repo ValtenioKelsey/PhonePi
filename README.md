@@ -1,5 +1,5 @@
 ## AV2
-## Captação de dados em dispositivos abdroid.
+## Captação de dados em dispositivos android.
 
 # Passo 1
 instalar o APP phonePi no dispositivo android
