@@ -4,15 +4,15 @@
 # Passo 1
 instalar o APP phonePi no dispositivo android
 
-![App Store](img.1)
+![App Store](https://github.com/ValtenioKelsey/PhonePi/blob/master/img1.png?raw=true)
 
 1.1 Condições de funcionamento do APP:
     Os dispositivos a serem conectados precisam estar conectados na mesma rede (sem restrições). No caso do jaguar conectar na rede do próprio jaguar (jaguar-unifor).
 
 1.1.2 colocar endereço de IP e porta, por padrão (porta 5000).
 
-![App Store](img.2)
-![App Store](img.3)
+![App](https://github.com/ValtenioKelsey/PhonePi/blob/master/img2.png?raw=true)
+![App](https://github.com/ValtenioKelsey/PhonePi/blob/master/img3.png?raw=true)
 
 Após conectado, abrir o pronpt de comando e rodar o código do programa (https://github.com/priyankark/PhonePi_SampleServer ) em python.
 
@@ -33,4 +33,4 @@ pub.publish(hello_str)
 #rate.sleep()
 ```
 
-![App Store](img.4)
+![Dados](https://github.com/ValtenioKelsey/PhonePi/blob/master/img4.png?raw=true)
